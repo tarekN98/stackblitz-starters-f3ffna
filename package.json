@@ -1,0 +1,19 @@
+{
+  "name": "thevoltadvise",
+  "version": "1.0.0",
+  "description": "TheVoltAdvise - A website for personalized advice and consultation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "website",
+    "chat",
+    "consultation"
+  ],
+  "author": "Tarek Sayed",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
